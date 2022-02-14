@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+- :sparkles:Java
+- :heart: humor
+- :meat_on_bone: Meat lover
+
 <!--
 **Finnick17/Finnick17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
